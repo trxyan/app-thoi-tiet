@@ -3,7 +3,7 @@ luyen tap co ban sử dụng html/css/js thuần
 Kiên - Giao diện & Layout (HTML/CSS)
 Phụ trách toàn bộ khung giao diện, layout responsive, thiết kế card hiển thị thời tiết.
 Giang - Kết nối API gọi thời tiết
-Phụ trách phần lõi: gọi API OpenWeatherMap và xử lý dữ liệu trả về.
+Phụ trách phần lõi: gọi API thời tiết và xử lý dữ liệu trả về.
 Nghĩa - Tính năng định vị & tìm kiếm
 Phụ trách các tính năng tương tác: tìm theo tên thành phố và định vị GPS.
 Dương - Xử lý lỗi & Testing
@@ -21,6 +21,6 @@ Mục tiêu dự án:
 Đối tượng sử dụng:
 Người dùng phổ thông muốn tra cứu nhanh thời tiết của một thành phố bất kỳ hoặc vị trí hiện tại của mình.
 Công nghệ sử dụng:
-Frontend: HTML5, CSS3, JavaScript (ES6+)
+Frontend: HTML5, CSS3, JavaScript 
 API: API thời tiết nào đó free
 Trình duyệt hỗ trợ: trong thời gian phát triển
