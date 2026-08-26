@@ -12,7 +12,7 @@ Linh - Tổng hợp & Báo cáo
 Thêm giá trị vượt trội cho dự án và chuẩn bị tài liệu thuyết trình.
 ///Mô tả dự án: Ứng dụng Xem Thời Tiết (Weather App)
 Giới thiệu chung:
--Đây là một ứng dụng web đơn giản giúp người dùng tra cứu thông tin thời tiết hiện tại theo tên thành phố hoặc vị trí GPS hiện tại, sử dụng dữ liệu thời tiết thời gian thực từ API bên ngoài (OpenWeatherMap).
+-Đây là một ứng dụng web đơn giản giúp người dùng tra cứu thông tin thời tiết hiện tại theo tên thành phố hoặc vị trí GPS hiện tại, sử dụng dữ liệu thời tiết thời gian thực từ API bên ngoài 
 Mục tiêu dự án:
 -Luyện tập kỹ năng gọi API bên ngoài (RESTful API) và xử lý dữ liệu JSON.
 -Thực hành xây dựng giao diện web tương tác bằng HTML/CSS/JavaScript thuần 
